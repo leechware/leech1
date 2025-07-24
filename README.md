@@ -1,4 +1,4 @@
-main visual architecture/
+main architecture/
 
 
 
