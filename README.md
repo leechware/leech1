@@ -4,4 +4,4 @@ main architecture/
 
 
 
-![Untitled-2025-05-27-1718](https://github.com/user-attachments/assets/67ff781e-5b2f-4e48-8bfb-ad30280ac496)
+<img width="20405" height="5878" alt="xxxxxx" src="https://github.com/user-attachments/assets/2acc0c53-cb7f-43cc-9a0c-ebb982264fd1" />
